@@ -10,7 +10,7 @@ Steps to follow:
     Threshold is calculated based on standard deviation of weights and sensitivity/quality factor).
 
 3. Results are uploaded in results folder. 
-   Output file "prune_results_highlighted_sensitivity1.6.pdf" contains original model, pruned model, and retarin model accuracy & compression rate during iteraive pruning.
+   original model, pruned model, and retarin model accuracy & compression rate during iteraive pruning.
 
 
 ![Pruning Results]
